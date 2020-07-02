@@ -1,2 +1,5 @@
-my_string = "Hello, World!"
-print(my_string)
+inputString = input()
+
+# Print a string literal saying "Hello, World." to stdout.
+print('Hello, World.')
+print(inputString)
